@@ -11,4 +11,4 @@ How to correctly open folders and files(including renaming) in VScode.
 WHAT I STRUGGLED WITH
 I struggled with Loops in terms of deciding which loop to use which will make the Menu to keep showing until pressing 5.
 
-![App Screenshot](Screenshot of CLI_App Running.png)
+![App Screenshot](Screenshot of CLI_App Running.PNG)
